@@ -1,9 +1,9 @@
 {
-    "version": "0.2",
+    "version": "0.3",
     "name": "ozznest/apm-bundle",
     "type": "symfony-bundle",
     "require": {
-        "philkra/elastic-apm-php-agent": "^6.5",
+        "philkra/elastic-apm-php-agent": "~7.0",
         "php" : ">= 7.4",
         "symfony/symfony": "^4.3.0"
     },
