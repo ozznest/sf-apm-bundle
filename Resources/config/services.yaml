@@ -1,0 +1,2 @@
+services:
+    PhilKra\Agent: '@elastic_apm.agent'
