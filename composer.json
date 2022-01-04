@@ -1,7 +1,7 @@
 {
     "version": "0.1",
-    "name": "sf-apm-bundleozznest/sf-apm-bundle",
-    "type": "library",
+    "name": "ozznest/apm-bundle",
+    "type": "symfony-bundle",
     "require": {
         "philkra/elastic-apm-php-agent": "^6.5",
         "php" : ">= 7.4",
